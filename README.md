@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**AkiraLyu/AkiraLyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akira — an undergraduate student majoring in Automation Engineering at the University of Electronic Science and Technology of China.
 
-Here are some ideas to get you started:
+My primary interests lie in Electronic Engineering and Computer Science. Currently, I am focusing on Deep Learning, Reinforcement Learning, and Cybernetics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have spent time studying Computer Architecture and participated in the ysyx project, where I implemented a RISC-V simulator and a simple operating system.
+
+## 🛠 Tech Stack
+
+- **Programming Languages:** Rust, C/C++, Python, Shell Script, MATLAB  
+- **Operating System:** Arch Linux (Btrfs)  
+- **Desktop Environment:** niri (with Noctalia Shell)  
+- **Tools:** Neovim, Kitty, Fish, Git, Docker, Tmux, Codex  
+
+## 📫 Contact
+
+Feel free to reach out to me:
+
+- **GitHub:** [@AkiraLyu](https://github.com/akiralyu)  
+- **Blog:** [akiralyu.github.io](https://akiralyu.github.io)  
+- **Email:** [akira.uestc@gmail.com](mailto:akira.uestc@gmail.com)
