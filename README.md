@@ -6,7 +6,7 @@ My primary interests lie in Electronic Engineering and Computer Science. Current
 
 I have spent time studying Computer Architecture and participated in the ysyx project, where I implemented a RISC-V simulator and a simple operating system.
 
-## 🛠 Tech Stack
+## 🛠 Tools & Environment
 
 - **Programming Languages:** Rust, C/C++, Python, Shell Script, MATLAB  
 - **Operating System:** Arch Linux (Btrfs)  
