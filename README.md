@@ -4,7 +4,7 @@ I'm Akira — an undergraduate student majoring in Automation Engineering at the
 
 My primary interests lie in Electronic Engineering and Computer Science. Currently, I am focusing on Deep Learning, Reinforcement Learning, and Cybernetics.
 
-I have spent time studying Computer Architecture and participated in the ysyx project, where I implemented a RISC-V simulator and a simple operating system.
+I am currently studying Computer Architecture and participating in the ysyx project, where I am implementing a RISC-V simulator and a simple operating system.
 
 ## 🛠 Tools & Environment
 
